@@ -1,6 +1,6 @@
 ﻿![ESTG](https://www.estg.ipp.pt/logo-ipp.png)
 
-# PII-1718-ESTG-PP
+# Exercícios de C
 
 Docente:
 * Óscar Oliveira (oao@estg.ipp.pt)
